@@ -1,1 +1,1 @@
-# lector-productos
+ingresa el codigo de un producto
